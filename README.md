@@ -2,7 +2,10 @@
 
 A public safety data visualization tool for San Antonio, Texas. Combines real SAPD crime incident data with the Texas Sex Offender Registry to display risk levels and offender locations on an interactive map.
 
-![GuardianMap SA Preview](preview.png)
+Preview
+<img width="1082" height="801" alt="preview" src="https://github.com/user-attachments/assets/3ac5bfb6-a9b4-493b-8c9f-1e351fe67763" />
+
+
 
 ---
 
@@ -65,7 +68,6 @@ This project uses publicly available government data for educational purposes on
 
 ---
 
-# GuardianMap SA
-
 I hope this helps inform you! 🗺️🤍
-![License: MIT](https://img.shields.io/badge/License-MIT-white.svg) 
+
+Amaris Maldonado License @ MIT
