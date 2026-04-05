@@ -66,4 +66,6 @@ This project uses publicly available government data for educational purposes on
 ---
 
 # GuardianMap SA
-![License: MIT](https://img.shields.io/badge/License-MIT-white.svg) 🤍
+
+I hope this helps inform you! 🗺️🤍
+![License: MIT](https://img.shields.io/badge/License-MIT-white.svg) 
