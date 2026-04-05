@@ -1,0 +1,10 @@
+USE [master]
+GO
+
+IF  EXISTS (SELECT name FROM sys.databases WHERE name = N'TX_SOR')
+DROP DATABASE [TX_SOR]
+GO
+USE [master]
+GO
+CREATE DATABASE TX_SOR
+GO
